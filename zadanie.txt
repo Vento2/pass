@@ -1,0 +1,8 @@
+Zadanie wykonujemy za pomocą jQuery.
+Pole formularza do wprowadzenia hasła.
+Po kliknięciu na link "pokaż znaki" (obok tego pola) pokazują się
+znaki hasła (znika maskowanie hasła). Zmienia się też tekst linku na "ukryj znaki".
+
+Zadanie dodatkowe: zliczaj aktualną ilość znaków w polu wpisywania hasła i wyświetl to w przygotowanym span-ie.
+
+Uwaga! Nie możesz modyfikować pliku HTML!
